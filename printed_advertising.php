@@ -131,7 +131,7 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-6 col-md-6 col-xs-12 col-sm-6">
-                                    <h2 class="title">Instalación de Video-Vigilancia</h2>
+                                    <h2 class="title">Publicidad Impresa</h2>
                                 </div>
                             </div>
                         </div>
