@@ -155,7 +155,7 @@
                                 <h3 align="left">Información que es recogida.</h3>
                                 <p align="justify" style="font-size: 150%; line-height: 200%;">
                                     Nuestro sitio web podrá recoger información personal, por ejemplo: Nombre, información de contacto como 
-                                    su dirección de correo electrónica y número telefónico. Así mismo cuando sea necesario podrá ser requerida 
+                                    su dirección de correo electrónico y número telefónico. Así mismo cuando sea necesario podrá ser requerida 
                                     información específica para procesar algún pedido, realizar una entrega o facturación.
                                 </p>
                                 <p align="justify" style="font-size: 150%; line-height: 200%;">

@@ -138,25 +138,503 @@
                     </div>
                 </div>
                 <!-- Main Content -->
-                <div class="content margin-top60 margin-bottom60">
+                <div class="content-about margin-top60">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <h2 class="text-center">Whoops... Página En Reparación !!!</h2>
-                                <div id="not-found">
-                                    <h2>404 <i class="fa fa-question"></i></h2>
+                            <!-- Left Section -->
+                            <div class="posts-block col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                <img src="img/publicidad/banner.jpg" alt="about">
+                            </div>
+                            <!-- /Left Section -->
+                            <!-- welcome Section -->
+                            <div class="welcome col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                <h2>Publi G Querétaro</h2>
+                                <p>Arconte Technologies extiende sus servicios al asociarse con 
+                                    Publi G Querétaro, ahora ofreciendo todo tipo de publicidad impresa.
+                                </p>
+                                <div class="content-box-about ch-item">
+                                    <div class="content-box-about-icon">
+                                        <div class="ch-info">
+                                            <div class="ch-info-front ch-img-1"><i class="fas fa-hand-holding-usd"></i></div>
+                                            <div class="ch-info-back">
+                                                <i class="fas fa-hand-holding-usd"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="content-box-about-info">
+                                        <h3>Los precios más bajos del mercado</h3>
+                                        <p>
+                                            Tenemos sin duda alguna los precios más bajos y siempre nos adaptamos a su presupuesto.
+                                        </p>
+                                    </div>
                                 </div>
-                                <div class="back-home">
-                                    <p>Esta página actualmente se encuentra en reparación.<br>
-                                        Da <a href="index.php">click aquí</a> para regresar al menú de inicio
-                                    </p>
+                                <div class="content-box-about ch-item">
+                                    <div class="content-box-about-icon">
+                                        <div class="ch-info">
+                                            <div class="ch-info-front ch-img-1"><i class="fas fa-award"></i></div>
+                                            <div class="ch-info-back">
+                                                <i class="fas fa-award"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="content-box-about-info">
+                                        <h3>Calidad 100% garantizada</h3>
+                                        <p>
+                                            La calidad de nuestros productos está garantizada por más de 10 años de experiencia.
+                                        </p>
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- /welcome Section -->
+                        </div>
+                    </div>
+                </div>
+                <!-- /Main Content -->
+                <!-- star Start-->
+                <div class="Star">
+                    <div class="container">
+                        <div class="row text-center">
+                            <div class="col-md-6 col-md-offset-3">
+                                <div class="star-divider">
+                                    <div class="star-divider-icon">
+                                        <i class=" fa fa-star"></i>
+                                    </div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- /Main Content -->
+
+                <div class="content margin-bottom60">
+                    <div class="container">             
+                        <div class="row">
+                        <h2 class="text-center">Solicite su publicidad ahora</h2>
+                            <div class="col-md-12">
+                                <div class="product-grid">
+                                    <div class="products-block">
+                                        <div class="row product-items">
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <span class="product-label product-label-special">
+                                                        <span>OFERTA</span>
+                                                        </span>
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/sellos.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/sellos.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Sellos de 5cm x 3cm</a></h3>
+                                                            <div class="price">
+                                                                <span class="price-old">$140.00</span>
+                                                                <span class="price-new">$119.99</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <span class="product-label product-label-special">
+                                                        <span>OFERTA</span>
+                                                        </span>
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/sello_plastico.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/sello_plastico.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Sellos de 4cm x 2.5cm</a></h3>
+                                                            <div class="price">
+                                                                <span class="price-old">$580.00</span>
+                                                                <span class="price-new">$550.00</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/botes.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/botes.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Cilindros</a></h3>
+                                                            <div class="price">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/nota.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/nota.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Notas de remisión</a></h3>
+                                                            <div class="price">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                        </div>
+                                        <div class="row product-items">
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <span class="product-label product-label-special">
+                                                        <span>OFERTA</span>
+                                                        </span>
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/playeras_mama_hijo.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/playeras_mama_hijo.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Duo playeras</a></h3>
+                                                            <div class="price">
+                                                                <span class="price-old">$360.00</span>
+                                                                <span class="price-new">$300.00</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <span class="product-label product-label-special">
+                                                        <span>OFERTA</span>
+                                                        </span>
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/playeras_heroes.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/playeras_heroes.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Playeras personalizadas</a></h3>
+                                                            <div class="price">
+                                                                <span class="price-old">$180.00</span>
+                                                                <span class="price-new">$150.00 C/U</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <span class="product-label product-label-special">
+                                                        <span>OFERTA</span>
+                                                        </span>
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/playeras.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/playeras.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Playeras personalizadas</a></h3>
+                                                            <div class="price">
+                                                                <span class="price-old">$180.00</span>
+                                                                <span class="price-new">$150.00 C/U</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/bolantes.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/bolantes.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Millar de volantes</a></h3>
+                                                            <div class="price">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                        </div>
+                                        <div class="row product-items last">
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/señal_discapacidad.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/señal_discapacidad.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Señaléticas</a></h3>
+                                                            <div class="price">
+                                                                <span class="price-new">Precio variable</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/camioneta.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/camioneta.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Publicidad exterior</a></h3>
+                                                            <div class="price">
+                                                                <span class="price-new">Precio variable</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/urban.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/urban.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Publicidad exterior</a></h3>
+                                                            <div class="price">
+                                                                <span class="price-new">Precio variable</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                            <!-- Product Items -->
+                                            <div class="col-lg-3 col-md-3 col-sm-3 col-xs-12 product-cols first">
+                                                <div class="product-block">
+                                                    <div class="image">
+                                                        <!-- Swap image -->
+                                                        <div class="flip">
+                                                            <a href="img/publicidad/trailer.png" class="portfolio-item-link" data-rel="prettyPhoto" ><img src="img/publicidad/trailer.png"/></a>
+                                                        </div>
+                                                        <!-- /Swap image -->
+                                                    </div>
+                                                    <div>
+                                                        <div>
+                                                            <h3 class="name"><a href="product-view.html">Publicidad exterior</a></h3>
+                                                            <div class="price">
+                                                                <span class="price-new">Precio variable</span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="action">
+                                                        <div class="cart">
+                                                            <a href="contact.php">
+                                                            <button class="btn btn-shopping-cart">
+                                                            <span class="fa fa-phone product-icon hidden-sm">&nbsp;</span>
+                                                            <span>Contáctenos</span>
+                                                            </button>
+                                                            </a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <!-- /Product Items -->
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </section>
+            <!-- Slogan -->
+            <div class="slogan bottom-pad-small">
+                    <div class="pattern-overlay">
+                        <div class="container">
+                            <div class="row">
+                                <div class="slogan-content">
+                                    <div class="col-lg-10 col-md-10">
+                                        <h2 class="slogan-title">Contáctenos para saber más acerca de nuestros productos</h2>
+                                    </div>
+                                    <div class="col-lg-2 col-md-2">
+                                        <div class="get-started">
+                                            <a class="btn-special btn-grey pull-right" href="contact.php">CONTÁCTENOS</a>
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Slogan -->
             <!-- /Main Section -->
             <!-- Footer -->
             <?php include_once("php/footer/footer.php"); ?>

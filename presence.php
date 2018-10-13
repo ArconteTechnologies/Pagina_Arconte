@@ -325,7 +325,7 @@
                                                 </div>
                                                 <div class="item">
                                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 item">
-                                                        <div class="item-inner"><img alt="Upportdash" src="img/presencia/landa.jpg" width="500" height="300"></div>
+                                                        <div class="item-inner"><img alt="Upportdash" src="img/presencia/landa.jpeg" width="500" height="300"></div>
                                                     </div>
                                                 </div>
                                             </div>
