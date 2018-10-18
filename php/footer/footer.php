@@ -28,7 +28,11 @@
                                 </li>
                                 <li>
                                     <i class="fa fa-phone"></i>
-                                    <p><strong>Teléfono:</strong> +521 415 126 6863</p>
+                                    <p><strong>Teléfono:</strong> +52 1 (415) 126 6863</p>
+                                </li>
+                                <li>
+                                    <i class="fab fa-whatsapp"></i>
+                                    <p><strong>WhatsApp:</strong> +52 1 (442) 302 3347</p>
                                 </li>
                                 <li>
                                     <i class="fa fa-envelope"></i>

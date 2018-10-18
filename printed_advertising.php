@@ -231,7 +231,7 @@
                                                             <h3 class="name"><a href="product-view.html">Sellos de 5cm x 3cm</a></h3>
                                                             <div class="price">
                                                                 <span class="price-old">$140.00</span>
-                                                                <span class="price-new">$119.99</span>
+                                                                <span class="price-new">$120.00</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -297,6 +297,7 @@
                                                         <div>
                                                             <h3 class="name"><a href="product-view.html">Cilindros</a></h3>
                                                             <div class="price">
+                                                                <span class="price-new">$75.00</span>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -325,8 +326,9 @@
                                                     </div>
                                                     <div>
                                                         <div>
-                                                            <h3 class="name"><a href="product-view.html">Notas de remisión</a></h3>
+                                                            <h3 class="name"><a href="product-view.html">Millar de notas autocopiantes</a></h3>
                                                             <div class="price">
+                                                                <span class="price-new">$750.00</span> a 1/4 de carta
                                                             </div>
                                                         </div>
                                                     </div>
@@ -462,8 +464,9 @@
                                                     </div>
                                                     <div>
                                                         <div>
-                                                            <h3 class="name"><a href="product-view.html">Millar de volantes</a></h3>
+                                                            <h3 class="name"><a href="product-view.html">4 millares de volantes</a></h3>
                                                             <div class="price">
+                                                                <span class="price-new">$550.00 a 1/4 de carta</span>
                                                             </div>
                                                         </div>
                                                     </div>
