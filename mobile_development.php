@@ -72,7 +72,6 @@
                                         <li><a href="digital_design.php" class="sf-with-ul">Digital Design</a></li>
                                         <li><a href="web development.php" class="sf-with-ul">Desarrollo Web</a></li>
                                         <li><a href="mobile_development.php" class="sf-with-ul">Desarrollo Móvil</a></li>
-                                        <li><a href="video_installation.php" class="sf-with-ul">Instalación De Video Vigilancia</a></li>
                                         <li><a href="software_consulting.php" class="sf-with-ul">Consultoría De Software</a></li>
                                     </ul>
                                 </li>
@@ -94,19 +93,6 @@
                                         <li><a href="about_us.php" class="sf-with-ul">Acerca</a></li>
                                         <li><a href="history.php" class="sf-with-ul">Historia</a></li>
                                         <li><a href="presence.php" class="sf-with-ul">Presencia</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="#" class="sf-with-ul">
-                                    TIENDA
-                                    <span class="sf-sub-indicator">
-                                    <i class="fa fa-angle-down "></i>
-                                    </span>
-                                    </a>
-                                    <ul>
-                                        <li><a href="printed_advertising.php" class="sf-with-ul">Publicidad Impresa</a></li>
-                                        <li><a href="electronics.php" class="sf-with-ul">Electrónica</a></li>
-                                        <li><a href="" class="sf-with-ul">Accesorios (Próximamente)</a></li>
                                     </ul>
                                 </li>
                                 <li>
@@ -138,24 +124,219 @@
                     </div>
                 </div>
                 <!-- Main Content -->
-                <div class="content margin-top60 margin-bottom60">
+                <div class="content-about margin-top60">
                     <div class="container">
                         <div class="row">
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <h2 class="text-center">Whoops... Página En Reparación !!!</h2>
-                                <div id="not-found">
-                                    <h2>404 <i class="fa fa-question"></i></h2>
+                            <div class="posts-block col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                <h2>La potencia de un ordenador en la palma de su mano.</h2>
+                                <p>
+                                    Con el incesante y continuo aumento de teléfonos inteligentes en el mercado, son cada 
+                                    vez más las empresas obligadas a adoptar un modelo de negocio con presencia en la 
+                                    tecnología móvil con estrategias específicas, y a veces únicas, para el Smartphone.
+                   
+                                </p>
+                                <p>
+                                    Con la potencia de un ordenador en la palma de su mano un teléfono inteligente es el 
+                                    dispositivo idóneo para darle al usuario la esencia única de su empresa, dándole a 
+                                    usted integración y optimización de sus datos y procesos empresariales.                     
+                                </p>
+                            </div>
+                            <div class="posts-block col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                <div class="row text-center">
+                                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                                        <div class="carousel-inner">
+                                            <div class="item active">
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 item wow fadeIn">
+                                                    <div class="item-inner"><img alt="" src="img/services/desarrollo_movil.jpg" width="550" height="400"></div>
+                                                </div>
+                                            </div>
+                                            <div class="item">
+                                                <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 item">
+                                                    <div class="item-inner"><img alt="" src="img/services/desarrollo_movil2.jpg" width="550" height="400"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
-                                <div class="back-home">
-                                    <p>Esta página actualmente se encuentra en reparación.<br>
-                                        Da <a href="index.php">click aquí</a> para regresar al menú de inicio
-                                    </p>
+                            </div>
+                        </div>
+                        <!-- Star -->
+                        <div class="star">
+                            <div class="container">
+                                <div class="row text-center">
+                                    <div class="col-md-6 col-md-offset-3">
+                                        <div class="star-divider">
+                                            <div class="star-divider-icon">
+                                                <i class=" fa fa-star"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- Star --> 
+                        <!-- Promo --> 
+                        <div class="row padding-top40">
+                            <div class="col-lg-4 col-md-4 col-sm-4">
+                                <div class="content-box big ch-item bottom-pad-small">
+                                    <div class="ch-info-wrap">
+                                        <div class="ch-info">
+                                            <div class="ch-info-front ch-img-1"><i class="fas fa-desktop"></i></div>
+                                            <div class="ch-info-back">
+                                                <i class="fas fa-desktop"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="content-box-info">
+                                        <h3>Desarrollo nativo e hibrido - su aplicación funcionando en cualquier plataforma.</h3>
+                                        <p>
+                                        </p>
+                                    </div>
+                                    <div class="border-bottom margin-top30">
+                                    </div>
+                                    <div class="border-bottom">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-4">
+                                <div class="content-box big ch-item bottom-pad-small">
+                                    <div class="ch-info-wrap">
+                                        <div class="ch-info">
+                                            <div class="ch-info-front ch-img-1"><i class="fas fa-users"></i></div>
+                                            <div class="ch-info-back">
+                                                <i class="fas fa-users"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="content-box-info">
+                                        <h3>Desarrollo ágil y diseño centrado en el usuario.<br><br><br></h3>
+                                        <p>
+                                        </p>
+                                    </div>
+                                    <div class="border-bottom margin-top30">
+                                    </div>
+                                    <div class="border-bottom">
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-lg-4 col-md-4 col-sm-4">
+                                <div class="content-box big ch-item bottom-pad-small">
+                                    <div class="ch-info-wrap">
+                                        <div class="ch-info">
+                                            <div class="ch-info-front ch-img-1"><i class="fab fa-codepen"></i></div>
+                                            <div class="ch-info-back">
+                                                <i class="fab fa-codepen"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="content-box-info">
+                                        <h3>Desarrollo a la medida usando tecnología de última generación.<br><br></h3>
+                                        <p>
+                                        </p>
+                                    </div>
+                                    <div class="border-bottom margin-top30">
+                                    </div>
+                                    <div class="border-bottom">
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- /Promo --> 
+                    </div>
+                </div>
+                <!-- /Main Content -->
+                <!-- Slogan -->
+                <div class="slogan bottom-pad-small">
+                    <div class="pattern-overlay">
+                        <div class="container">
+                            <div class="row">
+                                <div class="slogan-content">
+                                    <div class="col-lg-10 col-md-10">
+                                        <h2 class="slogan-title">Arconte Technologies Excediendo Los Límites</h2>
+                                    </div>
+                                    <div class="col-lg-2 col-md-2">
+                                        <div class="get-started">
+                                            <a class="btn-special btn-grey pull-right" href="contact.php">CONTÁCTENOS</a>
+                                        </div>
+                                    </div>
+                                    <div class="clearfix"></div>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
-                <!-- /Main Content -->
+                <!-- /Slogan -->
+                <!-- Our Clients -->
+                <div class="our-clients">
+                    <div class="container">
+                        <div class="row">
+                            <div class="client">
+                                <div class="client-logo">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="text-center">
+                                            <h2 class="wow fadeIn">Tecnologías</h2>
+                                            <h4 class="wow fadeInRight">
+                                                Trabajamos con las tecnologías de vanguardia en el mercado, así como también nos adaptamos a sus necesidades sin importar la tecnología que su proyecto requiera.
+                                            </h4>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                        <div class="clearfix"></div>
+                                        <div class="row text-center padding-top40">
+                                            <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                                                <div class="carousel-inner">
+                                                    <div class="item active">
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item wow fadeIn">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/php.png" width="155" height="100"></div>
+                                                        </div>
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item wow fadeIn">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/java.png"  width="155" height="100"></div>
+                                                        </div>
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item wow fadeIn">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/python.png" width="100" height="100"></div>
+                                                        </div>
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item wow fadeIn">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/go.png" width="170" height="100"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item">
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/angularjs.png" width="100" height="100"></div>
+                                                        </div>
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/bootstrap.png" width="170" height="100"></div>
+                                                        </div>
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/csharp.png" width="90" height="100"></div>
+                                                        </div>
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/html.png" width="70" height="100"></div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="item">
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/css.png" width="70" height="100"></div>
+                                                        </div>
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/js.png" width="90" height="100"></div>
+                                                        </div>
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/nodejs.png" width="100" height="100"></div>
+                                                        </div>
+                                                        <div class="col-lg-3 col-md-3 col-sm-3 col-xs-6 item">
+                                                            <div class="item-inner"><img alt="Upportdash" src="img/technologies_logo/cmasmas.png" width="90" height="100"></div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- /Our Clients -->  
             </section>
             <!-- /Main Section -->
             <!-- Footer -->

@@ -72,7 +72,6 @@
                                         <li><a href="digital_design.php" class="sf-with-ul">Digital Design</a></li>
                                         <li><a href="web development.php" class="sf-with-ul">Desarrollo Web</a></li>
                                         <li><a href="mobile_development.php" class="sf-with-ul">Desarrollo Móvil</a></li>
-                                        <li><a href="video_installation.php" class="sf-with-ul">Instalación De Video Vigilancia</a></li>
                                         <li><a href="software_consulting.php" class="sf-with-ul">Consultoría De Software</a></li>
                                     </ul>
                                 </li>
@@ -94,19 +93,6 @@
                                         <li><a href="about_us.php" class="sf-with-ul">Acerca</a></li>
                                         <li><a href="history.php" class="sf-with-ul">Historia</a></li>
                                         <li><a href="presence.php" class="sf-with-ul">Presencia</a></li>
-                                    </ul>
-                                </li>
-                                <li>
-                                    <a href="#" class="sf-with-ul">
-                                    TIENDA
-                                    <span class="sf-sub-indicator">
-                                    <i class="fa fa-angle-down "></i>
-                                    </span>
-                                    </a>
-                                    <ul>
-                                        <li><a href="printed_advertising.php" class="sf-with-ul">Publicidad Impresa</a></li>
-                                        <li><a href="electronics.php" class="sf-with-ul">Electrónica</a></li>
-                                        <li><a href="" class="sf-with-ul">Accesorios (Próximamente)</a></li>
                                     </ul>
                                 </li>
                                 <li>
